@@ -5,7 +5,7 @@ Novembro 2022
 
 
 Hoje revisei o conteúdo de git e gihub e aprendi a clonar usando o git bash.
-Até então eu operacionava através de um API - VSC, InteliJ, etc.
+Até então eu operacionalizava através de alguma IDE - VSC, InteliJ, etc.
 
 SUBIR PARA O GIT SEM API
 
